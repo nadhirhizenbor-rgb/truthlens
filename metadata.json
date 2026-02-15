@@ -1,0 +1,7 @@
+{
+  "name": "TruthLens - Organic Verification",
+  "description": "A sophisticated one-page landing page for TruthLens, an AI-powered misinformation detection platform, designed with an Organic/Fluid aesthetic to provide a serene and trustworthy user experience.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
